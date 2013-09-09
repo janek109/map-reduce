@@ -1,0 +1,2255 @@
+{
+	"results" : [
+{ "_id" : { "gmina" : "Abramów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Adamów" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Adamówka" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Aleksandrów" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Aleksandrów Kujawski" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Aleksandrów Łódzki" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Alwernia" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Andrespol" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Andrychów" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Andrzejewo" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Annopol" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Augustów" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Babiak" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Babice" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Babimost" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Baborów" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Baboszewo" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Bakałarzewo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Baligród" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Banie" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Banie Mazurskie" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Baranowo" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Baranów" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Baranów Sandomierski" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Barciany" }, "value" : { "count" : 73 } }
+{ "_id" : { "gmina" : "Barcin" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Barczewo" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Bardo" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Bargłów Kościelny" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Barlinek" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Bartniczka" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Bartoszyce" }, "value" : { "count" : 119 } }
+{ "_id" : { "gmina" : "Baruchowo" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Barwice" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Batorz" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Baćkowice" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Bałtów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Bedlno" }, "value" : { "count" : 71 } }
+{ "_id" : { "gmina" : "Bejsce" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Belsk Duży" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Besko" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Bestwina" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Bełchatów" }, "value" : { "count" : 77 } }
+{ "_id" : { "gmina" : "Bełżec" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Bełżyce" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Biała" }, "value" : { "count" : 118 } }
+{ "_id" : { "gmina" : "Biała Piska" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Biała Podlaska" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Biała Rawska" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Białaczów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Białe Błota" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Białobrzegi" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Białogard" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Białopole" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Białowieża" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Białośliwie" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Biały Bór" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Biały Dunajec" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Biecz" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Bielany" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Bielawa" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Bielawy" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Bielice" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Bieliny" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Bielsk" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Bielsk Podlaski" }, "value" : { "count" : 78 } }
+{ "_id" : { "gmina" : "Bierawa" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Bierutów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Bieruń" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Bierzwnik" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Biesiekierz" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Bieżuń" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Bircza" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Biskupice" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Biskupiec" }, "value" : { "count" : 107 } }
+{ "_id" : { "gmina" : "Biszcza" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Bisztynek" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Biłgoraj" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Blachownia" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Bledzew" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Blizanów" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Bliżyn" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Bobolice" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Bobowa" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Bobowo" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Bobrowice" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Bobrowniki" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Bobrowo" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Bochnia" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Bodzanów" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Bodzechów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Bodzentyn" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Bogatynia" }, "value" : { "count" : 152 } }
+{ "_id" : { "gmina" : "Bogdaniec" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Bogoria" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Boguchwała" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Boguszów-Gorce" }, "value" : { "count" : 107 } }
+{ "_id" : { "gmina" : "Boguty-Pianki" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Bojadła" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Bojanowo" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Bojanów" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Bojszowy" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Boleszkowice" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Bolesław" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Bolesławiec" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Bolimów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Bolków" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Boniewo" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Borek Wielkopolski" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Borki" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Borkowice" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Borne Sulinowo" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Boronów" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Borowa" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Borowie" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Borzechów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Borzytuchom" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Borzęcin" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Borów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Boćki" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Bralin" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Branice" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Braniewo" }, "value" : { "count" : 157 } }
+{ "_id" : { "gmina" : "Brańsk" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Brańszczyk" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Brenna" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Brochów" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Brodnica" }, "value" : { "count" : 104 } }
+{ "_id" : { "gmina" : "Brody" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Brojce" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Brok" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Brudzew" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Brudzeń Duży" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Brusy" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Brwinów" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Brzeg" }, "value" : { "count" : 209 } }
+{ "_id" : { "gmina" : "Brzeg Dolny" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Brzesko" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Brzeszcze" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Brzeziny" }, "value" : { "count" : 75 } }
+{ "_id" : { "gmina" : "Brześć Kujawski" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Brzeźnica" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Brzeźnio" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Brzeżno" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Brzostek" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Brzozie" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Brzozów" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Brzuze" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Brzyska" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Brójce" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Brąszewice" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Buczek" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Buczkowice" }, "value" : { "count" : 108 } }
+{ "_id" : { "gmina" : "Budry" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Budziszewice" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Budzyń" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Budzów" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Buk" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Bukowiec" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Bukowina Tatrzańska" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Bukowno" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Bukowsko" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Bulkowo" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Burzenin" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Busko-Zdrój" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Bychawa" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Byczyna" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Bystra-Sidzina" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Bystrzyca Kłodzka" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Bytnica" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Bytom Odrzański" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Bytoń" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Bytów" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Bądkowo" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Będków" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Będzin" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Będzino" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Błaszki" }, "value" : { "count" : 86 } }
+{ "_id" : { "gmina" : "Błażowa" }, "value" : { "count" : 66 } }
+{ "_id" : { "gmina" : "Błonie" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Błędów" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Cedry Wielkie" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Cedynia" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Cegłów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Cekcyn" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Ceków-Kolonia" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Celestynów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Ceranów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Cewice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Charsznica" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Chełm" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Chełm Śląski" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Chełmek" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Chełmiec" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Chełmno" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Chełmża" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Chlewiska" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Chmielnik" }, "value" : { "count" : 74 } }
+{ "_id" : { "gmina" : "Chmielno" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Choceń" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Chocianów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Chociwel" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Chocz" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Choczewo" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Chodecz" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Chodel" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Chodzież" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Chodów" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Chojna" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Chojnice" }, "value" : { "count" : 375 } }
+{ "_id" : { "gmina" : "Chojnów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Chorkówka" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Choroszcz" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Chorzele" }, "value" : { "count" : 74 } }
+{ "_id" : { "gmina" : "Choszczno" }, "value" : { "count" : 130 } }
+{ "_id" : { "gmina" : "Chotcza" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Chrostkowo" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Chrzanów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Chrzypsko Wielkie" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Chrząstowice" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Chybie" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Chynów" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Chąśno" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Chęciny" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Chłopice" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Ciasna" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Ciechanowiec" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Ciechanów" }, "value" : { "count" : 393 } }
+{ "_id" : { "gmina" : "Ciechocin" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Ciechocinek" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Cielądz" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Ciepielów" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Ciepłowody" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Cieszanów" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Cieszków" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Cieszyn" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Cisek" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Cisna" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Ciężkowice" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Cmolas" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Cybinka" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Cyców" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Czajków" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Czaplinek" }, "value" : { "count" : 121 } }
+{ "_id" : { "gmina" : "Czarna" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Czarna Białostocka" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Czarna Dąbrówka" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Czarna Woda" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Czarne" }, "value" : { "count" : 87 } }
+{ "_id" : { "gmina" : "Czarnia" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Czarnków" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Czarnocin" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Czarnożyły" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Czarny Bór" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Czarny Dunajec" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Czastary" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Czchów" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Czechowice-Dziedzice" }, "value" : { "count" : 304 } }
+{ "_id" : { "gmina" : "Czeladź" }, "value" : { "count" : 110 } }
+{ "_id" : { "gmina" : "Czemierniki" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Czempiń" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Czeremcha" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Czermin" }, "value" : { "count" : 74 } }
+{ "_id" : { "gmina" : "Czernica" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Czernice Borowe" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Czernichów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Czerniejewo" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Czerniewice" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Czernikowo" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Czersk" }, "value" : { "count" : 100 } }
+{ "_id" : { "gmina" : "Czerwieńsk" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Czerwin" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Czerwionka-Leszczyny" }, "value" : { "count" : 162 } }
+{ "_id" : { "gmina" : "Czerwińsk nad Wisłą" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Czerwonak" }, "value" : { "count" : 78 } }
+{ "_id" : { "gmina" : "Czerwonka" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Czorsztyn" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Czosnów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Czudec" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Czyże" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Czyżew-Osada" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Człopa" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Człuchów" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Daleszyce" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Dalików" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Damasławek" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Damnica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Darłowo" }, "value" : { "count" : 193 } }
+{ "_id" : { "gmina" : "Daszyna" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Debrzno" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Deszczno" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Dmosin" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Dobczyce" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Dobiegniew" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Dobra" }, "value" : { "count" : 95 } }
+{ "_id" : { "gmina" : "Dobra (Szczecińska)" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Dobrcz" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Dobre" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Dobre Miasto" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Dobrodzień" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Dobromierz" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Dobroszyce" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Dobroń" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Dobryszyce" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Dobrzany" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Dobrzeń Wielki" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Dobrzyca" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Dobrzyniewo Duże" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Dobrzyń nad Wisłą" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Dolice" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Dolsk" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Domanice" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Domaniewice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Domaniów" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Domaradz" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Domaszowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Dominowo" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Dopiewo" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Dorohusk" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Doruchów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Dołhobyczów" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Dragacz" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Drawno" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Drawsko" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Drawsko Pomorskie" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Drelów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Drezdenko" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Drobin" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Drohiczyn" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Drużbice" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Drwinia" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Drzewica" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Drzycim" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Dubeninki" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Dubicze Cerkiewne" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Dubiecko" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Dubienka" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Dukla" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Duszniki" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Duszniki-Zdrój" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Dwikozy" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Dydnia" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Dygowo" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Dynów" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Dywity" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Dziadkowice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Dziadowa Kłoda" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Działdowo" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Działoszyce" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Działoszyn" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Dziemiany" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Dzierzgowo" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Dzierzgoń" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Dzierzkowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Dzierzążnia" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Dzierżoniów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Dzikowiec" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Dziwnów" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Dzwola" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Dąbie" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Dąbrowa" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Dąbrowa Białostocka" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Dąbrowa Biskupia" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Dąbrowa Chełmińska" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Dąbrowa Tarnowska" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Dąbrowa Zielona" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Dąbrowice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Dąbrówka" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Dąbrówno" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Dębe Wielkie" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Dębica" }, "value" : { "count" : 294 } }
+{ "_id" : { "gmina" : "Dęblin" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Dębnica Kaszubska" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Dębno" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Dębowa Kłoda" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Dębowa Łąka" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Dębowiec" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Długosiodło" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Długołęka" }, "value" : { "count" : 107 } }
+{ "_id" : { "gmina" : "Dłutów" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Dźwierzuty" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Elbląg" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Ełk" }, "value" : { "count" : 88 } }
+{ "_id" : { "gmina" : "Fabianki" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Fajsławice" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Fałków" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Filipów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Firlej" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Frampol" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Fredropol" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Frombork" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Frysztak" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Galewice" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Garbatka-Letnisko" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Garbów" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Gardeja" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Garwolin" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Gaszowice" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Gaworzyce" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Gawłuszowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Gać" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Gdów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Giby" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Gidle" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Gielniów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Gierałtowice" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Gietrzwałd" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Gilowice" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Gizałki" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Giżycko" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Glinojeck" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Gniew" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Gniewino" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Gniewkowo" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Gniewoszów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Gniezno" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Gnojnik" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Gnojno" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Goczałkowice-Zdrój" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Godkowo" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Godzianów" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Godziesze Wielkie" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Godziszów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Godów" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Gogolin" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Golczewo" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Goleniów" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Goleszów" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Golina" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Golub-Dobrzyń" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Gomunice" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Goniądz" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Goraj" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Gorlice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Gorzkowice" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Gorzków" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Gorzyce" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Gorzów Śląski" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Gostycyn" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Gostynin" }, "value" : { "count" : 94 } }
+{ "_id" : { "gmina" : "Gostyń" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Goszczanów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Goszczyn" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Gowarczów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Goworowo" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Gozdnica" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Gozdowo" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Gołańcz" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Gołcza" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Gołdap" }, "value" : { "count" : 73 } }
+{ "_id" : { "gmina" : "Gołuchów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Gołymin-Ośrodek" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Gościeradów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Gościno" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Grabica" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Grabowiec" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Grabowo" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Grabów" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Grabów nad Pilicą" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Grabów nad Prosną" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Grajewo" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Granowo" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Grodków" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Grodziczno" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Grodziec" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Grodzisk" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Grodzisk Mazowiecki" }, "value" : { "count" : 353 } }
+{ "_id" : { "gmina" : "Grodzisk Wielkopolski" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Grodzisko Dolne" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Gromadka" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Gromnik" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Gronowo Elbląskie" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Grudusk" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Grudziądz" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Grunwald" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Gruta" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Grybów" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Gryfice" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Gryfino" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Gryfów Śląski" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Grzegorzew" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Grzmiąca" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Gródek" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Gródek nad Dunajcem" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Grójec" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Grębków" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Grębocice" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Gręboszów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Grębów" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Gubin" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Gzy" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Góra" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Góra Kalwaria" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Góra Świętej Małgorzaty" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Górno" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Górowo Iławeckie" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Górzno" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Górzyca" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Gózd" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Gąbin" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Gąsawa" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Głogów" }, "value" : { "count" : 316 } }
+{ "_id" : { "gmina" : "Głogów Małopolski" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Głogówek" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Głowaczów" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Głowno" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Głubczyce" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Głuchołazy" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Głuchów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Głusk" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Głuszyca" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Główczyce" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Haczów" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Hajnówka" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Halinów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Hanna" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Harasiuki" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Hańsk" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Hażlach" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Hel" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Herby" }, "value" : { "count" : 81 } }
+{ "_id" : { "gmina" : "Horodło" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Horyniec-Zdrój" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Hrubieszów" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Huszlew" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Hyżne" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Igołomia-Wawrzeńczyce" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Imielin" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Imielno" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Inowrocław" }, "value" : { "count" : 350 } }
+{ "_id" : { "gmina" : "Inowłódz" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Irządze" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Istebna" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Iwaniska" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Iwanowice" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Iwierzyce" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Iwkowa" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Iwonicz-Zdrój" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Izabelin" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Izbica" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Izbica Kujawska" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Izbicko" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Iława" }, "value" : { "count" : 234 } }
+{ "_id" : { "gmina" : "Iłowa" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Iłowo-Osada" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Iłów" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Iłża" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Ińsko" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Jabłonka" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Jabłonna" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Jabłonna Lacka" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Jabłonowo Pomorskie" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Jabłoń" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Jadów" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Jaktorów" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Jakubów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Janikowo" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Janowice Wielkie" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Janowiec" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Janowiec Kościelny" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Janowiec Wielkopolski" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Janowo" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Janów" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Janów Lubelski" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Janów Podlaski" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Jaraczewo" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Jarczów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Jarocin" }, "value" : { "count" : 102 } }
+{ "_id" : { "gmina" : "Jarosław" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Jasienica" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Jasienica Rosielna" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Jasieniec" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Jasień" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Jasionówka" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Jastarnia" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Jastków" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Jastrowie" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Jastrząb" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Jastrzębia" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Jasło" }, "value" : { "count" : 209 } }
+{ "_id" : { "gmina" : "Jawor" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Jawornik Polski" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Jaworze" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Jaworzyna Śląska" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Jaświły" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Jedlicze" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Jedlina-Zdrój" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Jedlińsk" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Jedlnia-Letnisko" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Jednorożec" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Jedwabne" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Jedwabno" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Jejkowice" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Jelcz-Laskowice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Jeleniewo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Jeleśnia" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Jemielnica" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Jemielno" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Jerzmanowa" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Jerzmanowice-Przeginia" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Jeziora Wielkie" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Jeziorany" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Jeziorzany" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Jeżewo" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Jeżowe" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Jeżów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Jeżów Sudecki" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Jodłowa" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Jodłownik" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Joniec" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Jonkowo" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Jordanów" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Jordanów Śląski" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Juchnowiec Kościelny" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Jutrosin" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Józefów" }, "value" : { "count" : 238 } }
+{ "_id" : { "gmina" : "Józefów nad Wisłą" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Jędrzejów" }, "value" : { "count" : 65 } }
+{ "_id" : { "gmina" : "Kaczory" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kadzidło" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Kalety" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Kalinowo" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Kaliska" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Kalisz Pomorski" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Kalwaria Zebrzydowska" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kamienica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kamienica Polska" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Kamieniec" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Kamieniec Ząbkowicki" }, "value" : { "count" : 74 } }
+{ "_id" : { "gmina" : "Kamienna Góra" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Kamiennik" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Kamień" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Kamień Krajeński" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kamień Pomorski" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Kamieńsk" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kamionka" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Kamionka Wielka" }, "value" : { "count" : 82 } }
+{ "_id" : { "gmina" : "Kampinos" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Karczew" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Karczmiska" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Kargowa" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Karlino" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Karnice" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Karniewo" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Karpacz" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Karsin" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Kartuzy" }, "value" : { "count" : 123 } }
+{ "_id" : { "gmina" : "Kawęczyn" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Kazanów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Kazimierz Biskupi" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Kazimierz Dolny" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kazimierza Wielka" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Kałuszyn" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Kańczuga" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kaźmierz" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Kcynia" }, "value" : { "count" : 65 } }
+{ "_id" : { "gmina" : "Kiernozia" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kietrz" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kiełczygłów" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Kije" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Kijewo Królewskie" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Kikół" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Kisielice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kiszkowo" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Kiwity" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kleczew" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Klembów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Kleszczele" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Kleszczewo" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Kleszczów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Klimontów" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Klonowa" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Kluczbork" }, "value" : { "count" : 183 } }
+{ "_id" : { "gmina" : "Klucze" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kluczewsko" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Kluki" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Klukowo" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Klwów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Knurów" }, "value" : { "count" : 143 } }
+{ "_id" : { "gmina" : "Knyszyn" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kobiele Wielkie" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Kobierzyce" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Kobiór" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Kobyla Góra" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Kobylanka" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kobylin" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kobylin-Borzymy" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Kobylnica" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Kobyłka" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Kochanowice" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Kocierzew Południowy" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kock" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Kocmyrzów-Luborzyca" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Koczała" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kodeń" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Kodrąb" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Kolbudy" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Kolbuszowa" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kolno" }, "value" : { "count" : 83 } }
+{ "_id" : { "gmina" : "Kolonowskie" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Kolsko" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Koluszki" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Komarów-Osada" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Komarówka Podlaska" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Komańcza" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Komorniki" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Komprachcice" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Konarzyny" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kondratowice" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Koneck" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Koniecpol" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Koniusza" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Konopiska" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Konopnica" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Konstancin-Jeziorna" }, "value" : { "count" : 294 } }
+{ "_id" : { "gmina" : "Konstantynów" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Konstantynów Łódzki" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Koprzywnica" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Korczew" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Korczyna" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Korfantów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Kornowac" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Koronowo" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Korsze" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Korycin" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Korytnica" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Korzenna" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Kosakowo" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Kostomłoty" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Kostrzyn" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Kostrzyn nad Odrą" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Koszarawa" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Koszyce" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Koszęcin" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kosów Lacki" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Kotla" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Kotlin" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Kotuń" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Kowal" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kowala" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kowale Oleckie" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Kowalewo Pomorskie" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Kowary" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Kowiesy" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Koziegłowy" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Kozielice" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Kozienice" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Kozy" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Kozłowo" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Kozłów" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Kołaczkowo" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kołaczyce" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Kołaki Kościelne" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Kołbaskowo" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kołbiel" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kołczygłowy" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Koło" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Kołobrzeg" }, "value" : { "count" : 411 } }
+{ "_id" : { "gmina" : "Końskie" }, "value" : { "count" : 199 } }
+{ "_id" : { "gmina" : "Końskowola" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Kościan" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Kościelec" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Kościelisko" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Kościerzyna" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Koźmin Wielkopolski" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Koźminek" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Kożuchów" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Krajenka" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Kramsk" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Krapkowice" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Krasiczyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Krasne" }, "value" : { "count" : 73 } }
+{ "_id" : { "gmina" : "Krasnobród" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Krasnopol" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Krasnosielc" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Krasnystaw" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Krasocin" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Kraszewice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Kraśniczyn" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kraśnik" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Krempna" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Krobia" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Kroczyce" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Krokowa" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Krosno Odrzańskie" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Krotoszyce" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Krotoszyn" }, "value" : { "count" : 290 } }
+{ "_id" : { "gmina" : "Krościenko Wyżne" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Krościenko nad Dunajcem" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Krośnice" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Krośniewice" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Kruklanki" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Krupski Młyn" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Kruszwica" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Kruszyna" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Krynica Morska" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Krynica-Zdrój" }, "value" : { "count" : 65 } }
+{ "_id" : { "gmina" : "Krynice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Krynki" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Krypno" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Krzanowice" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Krzczonów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Krzemieniewo" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Krzepice" }, "value" : { "count" : 77 } }
+{ "_id" : { "gmina" : "Krzeszowice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Krzeszyce" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Krzeszów" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Krzykosy" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Krzymów" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Krzynowłoga Mała" }, "value" : { "count" : 66 } }
+{ "_id" : { "gmina" : "Krzywcza" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Krzywda" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Krzywiń" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Krzyż Wielkopolski" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Krzyżanowice" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Krzyżanów" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Krzęcin" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Ksawerów" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Książ Wielki" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Książ Wielkopolski" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Książki" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Księżpol" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Kuczbork-Osada" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kudowa-Zdrój" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Kulesze Kościelne" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Kunice" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Kunów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Kuryłówka" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Kurzętnik" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kurów" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Kutno" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Kuślin" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Kuźnia Raciborska" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Kuźnica" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Kwidzyn" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Kwilcz" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Kórnik" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Kąkolewnica Wschodnia" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Kąty Wrocławskie" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Kędzierzyn-Koźle" }, "value" : { "count" : 299 } }
+{ "_id" : { "gmina" : "Kępice" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Kępno" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Kęsowo" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Kętrzyn" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Kęty" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Kłaj" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Kłecko" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Kłobuck" }, "value" : { "count" : 156 } }
+{ "_id" : { "gmina" : "Kłoczew" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Kłodawa" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Kłodzko" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Kłomnice" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Lanckorona" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Laskowa" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Lasowice Wielkie" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Laszki" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Latowicz" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Legionowo" }, "value" : { "count" : 207 } }
+{ "_id" : { "gmina" : "Legnickie Pole" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Lelis" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Lelkowo" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Lelów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Leoncin" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Lesko" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Leszno" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Lesznowola" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Lewin Brzeski" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Lewin Kłodzki" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Leśna" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Leśna Podlaska" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Leśnica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Leśniowice" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Leżajsk" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Lgota Wielka" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Libiąż" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Lichnowy" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Lidzbark" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Lidzbark Warmiński" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Limanowa" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Linia" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Liniewo" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Lipce Reymontowskie" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Lipiany" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Lipie" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Lipinki" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Lipinki Łużyckie" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Lipka" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Lipnica" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Lipnica Murowana" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Lipnica Wielka" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Lipnik" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Lipno" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Lipowa" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Lipowiec Kościelny" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Lipsk" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Lipsko" }, "value" : { "count" : 91 } }
+{ "_id" : { "gmina" : "Lipusz" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Lisewo" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Lisia Góra" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Lisków" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Liszki" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Liw" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Lniano" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Lubaczów" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Lubanie" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Lubartów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Lubasz" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Lubawa" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Lubawka" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Lubań" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Lubenia" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Lubichowo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Lubicz" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Lubiewo" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Lubień" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Lubień Kujawski" }, "value" : { "count" : 64 } }
+{ "_id" : { "gmina" : "Lubin" }, "value" : { "count" : 228 } }
+{ "_id" : { "gmina" : "Lubiszyn" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Lubliniec" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Lubniewice" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Lubochnia" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Lubomia" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Lubomierz" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Lubomino" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Lubowidz" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Luboń" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Lubraniec" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Lubrza" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Lubsko" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Lubsza" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Lubycza Królewska" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Ludwin" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Lutocin" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Lutomiersk" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Lutowiska" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Lututów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Luzino" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Lwówek" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Lwówek Śląski" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Lyski" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Lądek" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Lądek-Zdrój" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Lębork" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Lędziny" }, "value" : { "count" : 113 } }
+{ "_id" : { "gmina" : "M. Biała Podlaska" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "M. Białystok" }, "value" : { "count" : 1289 } }
+{ "_id" : { "gmina" : "M. Bielsko-Biała" }, "value" : { "count" : 794 } }
+{ "_id" : { "gmina" : "M. Bydgoszcz" }, "value" : { "count" : 1843 } }
+{ "_id" : { "gmina" : "M. Bytom" }, "value" : { "count" : 561 } }
+{ "_id" : { "gmina" : "M. Chełm" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "M. Chorzów" }, "value" : { "count" : 409 } }
+{ "_id" : { "gmina" : "M. Częstochowa" }, "value" : { "count" : 850 } }
+{ "_id" : { "gmina" : "M. Dąbrowa Górnicza" }, "value" : { "count" : 487 } }
+{ "_id" : { "gmina" : "M. Elbląg" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "M. Gdańsk" }, "value" : { "count" : 1852 } }
+{ "_id" : { "gmina" : "M. Gdynia" }, "value" : { "count" : 1275 } }
+{ "_id" : { "gmina" : "M. Gliwice" }, "value" : { "count" : 817 } }
+{ "_id" : { "gmina" : "M. Gorzów Wielkopolski" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "M. Grudziądz" }, "value" : { "count" : 366 } }
+{ "_id" : { "gmina" : "M. Jastrzębie-Zdrój" }, "value" : { "count" : 296 } }
+{ "_id" : { "gmina" : "M. Jaworzno" }, "value" : { "count" : 578 } }
+{ "_id" : { "gmina" : "M. Jelenia Góra" }, "value" : { "count" : 484 } }
+{ "_id" : { "gmina" : "M. Kalisz" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "M. Katowice" }, "value" : { "count" : 1424 } }
+{ "_id" : { "gmina" : "M. Kielce" }, "value" : { "count" : 1062 } }
+{ "_id" : { "gmina" : "M. Konin" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "M. Koszalin" }, "value" : { "count" : 739 } }
+{ "_id" : { "gmina" : "M. Kraków" }, "value" : { "count" : 4039 } }
+{ "_id" : { "gmina" : "M. Krosno" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "M. Legnica" }, "value" : { "count" : 575 } }
+{ "_id" : { "gmina" : "M. Leszno" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "M. Lublin" }, "value" : { "count" : 1548 } }
+{ "_id" : { "gmina" : "M. Mysłowice" }, "value" : { "count" : 314 } }
+{ "_id" : { "gmina" : "M. Nowy Sącz" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "M. Olsztyn" }, "value" : { "count" : 874 } }
+{ "_id" : { "gmina" : "M. Opole" }, "value" : { "count" : 818 } }
+{ "_id" : { "gmina" : "M. Ostrołęka" }, "value" : { "count" : 429 } }
+{ "_id" : { "gmina" : "M. Piekary Śląskie" }, "value" : { "count" : 336 } }
+{ "_id" : { "gmina" : "M. Piotrków Trybunalski" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "M. Poznań" }, "value" : { "count" : 3643 } }
+{ "_id" : { "gmina" : "M. Przemyśl" }, "value" : { "count" : 420 } }
+{ "_id" : { "gmina" : "M. Płock" }, "value" : { "count" : 579 } }
+{ "_id" : { "gmina" : "M. Radom" }, "value" : { "count" : 1109 } }
+{ "_id" : { "gmina" : "M. Ruda Śląska" }, "value" : { "count" : 643 } }
+{ "_id" : { "gmina" : "M. Rybnik" }, "value" : { "count" : 750 } }
+{ "_id" : { "gmina" : "M. Rzeszów" }, "value" : { "count" : 978 } }
+{ "_id" : { "gmina" : "M. Siedlce" }, "value" : { "count" : 405 } }
+{ "_id" : { "gmina" : "M. Siemianowice Śląskie" }, "value" : { "count" : 251 } }
+{ "_id" : { "gmina" : "M. Skierniewice" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "M. Sopot" }, "value" : { "count" : 315 } }
+{ "_id" : { "gmina" : "M. Sosnowiec" }, "value" : { "count" : 720 } }
+{ "_id" : { "gmina" : "M. Suwałki" }, "value" : { "count" : 240 } }
+{ "_id" : { "gmina" : "M. Szczecin" }, "value" : { "count" : 2091 } }
+{ "_id" : { "gmina" : "M. Słupsk" }, "value" : { "count" : 365 } }
+{ "_id" : { "gmina" : "M. Tarnobrzeg" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "M. Tarnów" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "M. Toruń" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "M. Tychy" }, "value" : { "count" : 409 } }
+{ "_id" : { "gmina" : "M. Wrocław" }, "value" : { "count" : 3063 } }
+{ "_id" : { "gmina" : "M. Włocławek" }, "value" : { "count" : 534 } }
+{ "_id" : { "gmina" : "M. Zabrze" }, "value" : { "count" : 726 } }
+{ "_id" : { "gmina" : "M. Zamość" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "M. Zielona Góra" }, "value" : { "count" : 679 } }
+{ "_id" : { "gmina" : "M. st. Warszawa" }, "value" : { "count" : 8930 } }
+{ "_id" : { "gmina" : "M. Łomża" }, "value" : { "count" : 249 } }
+{ "_id" : { "gmina" : "M. Łódź" }, "value" : { "count" : 4330 } }
+{ "_id" : { "gmina" : "M. Świnoujście" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "M. Świętochłowice" }, "value" : { "count" : 169 } }
+{ "_id" : { "gmina" : "M. Żory" }, "value" : { "count" : 266 } }
+{ "_id" : { "gmina" : "Maciejowice" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Magnuszew" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Majdan Królewski" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Maków" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Maków Mazowiecki" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Maków Podhalański" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Malanów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Malbork" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Malczyce" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Malechowo" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Manowo" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Marcinowice" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Marciszów" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Margonin" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Marianowo" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Marki" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Marklowice" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Markowa" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Markusy" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Markuszów" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Maszewo" }, "value" : { "count" : 86 } }
+{ "_id" : { "gmina" : "Masłowice" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Masłów" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Mała Wieś" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Małdyty" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Małkinia Górna" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Małogoszcz" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Małomice" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Mały Płock" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Medyka" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Mełgiew" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Miasteczko Krajeńskie" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Miasteczko Śląskie" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Miastko" }, "value" : { "count" : 90 } }
+{ "_id" : { "gmina" : "Miastkowo" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Miastków Kościelny" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Michałowice" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Michałowo" }, "value" : { "count" : 75 } }
+{ "_id" : { "gmina" : "Michałów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Michów" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Miechów" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Miedziana Góra" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Miedzichowo" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Miedzna" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Miedźna" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Miedźno" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Miejsce Piastowe" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Miejska Górka" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Mielec" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Mieleszyn" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Mielnik" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Mielno" }, "value" : { "count" : 85 } }
+{ "_id" : { "gmina" : "Mieroszów" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Mierzęcice" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Mieszkowice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Mietków" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Mieścisko" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Mikołajki" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Mikołajki Pomorskie" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Mikołów" }, "value" : { "count" : 201 } }
+{ "_id" : { "gmina" : "Mikstat" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Milanów" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Milanówek" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Milejczyce" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Milejewo" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Milejów" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Milicz" }, "value" : { "count" : 101 } }
+{ "_id" : { "gmina" : "Milówka" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Mircze" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Mirosławiec" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Mirsk" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Mirzec" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Mirów" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Miączyn" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Międzybórz" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Międzychód" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Międzylesie" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Międzyrzec Podlaski" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Międzyrzecz" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Międzyzdroje" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Miękinia" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Miłakowo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Miłki" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Miłkowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Miłomłyn" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Miłoradz" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Miłosław" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Mińsk Mazowiecki" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Mniszków" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Mniów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Mochowo" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Modliborzyce" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Mogielnica" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Mogilany" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Mogilno" }, "value" : { "count" : 90 } }
+{ "_id" : { "gmina" : "Mokobody" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Mokrsko" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Morawica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Mordy" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Moryń" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Morzeszczyn" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Morąg" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Mosina" }, "value" : { "count" : 78 } }
+{ "_id" : { "gmina" : "Moskorzew" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Moszczenica" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Mońki" }, "value" : { "count" : 137 } }
+{ "_id" : { "gmina" : "Mrocza" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Mrozy" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Mrągowo" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Mstów" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Mszana" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Mszana Dolna" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Mszczonów" }, "value" : { "count" : 157 } }
+{ "_id" : { "gmina" : "Mucharz" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Murowana Goślina" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Murów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Muszyna" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Mycielin" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Mykanów" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Myszków" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Myszyniec" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Mysłakowice" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Myślenice" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Myślibórz" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Męcinka" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Mędrzechów" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Mława" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Młodzieszyn" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Młynary" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Młynarze" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Mściwojów" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Nadarzyn" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Nagłowice" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Nakło nad Notecią" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Namysłów" }, "value" : { "count" : 173 } }
+{ "_id" : { "gmina" : "Narew" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Narewka" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Narol" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Naruszewo" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Nasielsk" }, "value" : { "count" : 166 } }
+{ "_id" : { "gmina" : "Nawojowa" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Nałęczów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Nekla" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Nidzica" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Nieborów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Niebylec" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Niechanowo" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Niechlów" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Niedrzwica Duża" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Niedźwiada" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Niedźwiedź" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Niegosławice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Niegowa" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Nielisz" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Niemce" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Niemcza" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Niemodlin" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Nieporęt" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Niepołomice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Nieszawa" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Nisko" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Niwiska" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Nowa Brzeźnica" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Nowa Dęba" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Nowa Karczma" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Nowa Ruda" }, "value" : { "count" : 150 } }
+{ "_id" : { "gmina" : "Nowa Sarzyna" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Nowa Sucha" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Nowa Sól" }, "value" : { "count" : 259 } }
+{ "_id" : { "gmina" : "Nowa Słupia" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Nowa Wieś Lęborska" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Nowa Wieś Wielka" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Nowe" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Nowe Brzesko" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Nowe Miasteczko" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Nowe Miasto" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Nowe Miasto Lubawskie" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Nowe Miasto nad Pilicą" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Nowe Miasto nad Wartą" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Nowe Ostrowy" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Nowe Piekuty" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Nowe Skalmierzyce" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Nowe Warpno" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Nowinka" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Nowodwór" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Nowogard" }, "value" : { "count" : 158 } }
+{ "_id" : { "gmina" : "Nowogrodziec" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Nowogród" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Nowogród Bobrzański" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Nowogródek Pomorski" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Nowosolna" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Nowy Duninów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Nowy Dwór" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Nowy Dwór Gdański" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Nowy Dwór Mazowiecki" }, "value" : { "count" : 191 } }
+{ "_id" : { "gmina" : "Nowy Kawęczyn" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Nowy Korczyn" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Nowy Staw" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Nowy Targ" }, "value" : { "count" : 150 } }
+{ "_id" : { "gmina" : "Nowy Tomyśl" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Nowy Wiśnicz" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Nowy Żmigród" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Nozdrzec" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Nur" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Nurzec-Stacja" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Nysa" }, "value" : { "count" : 308 } }
+{ "_id" : { "gmina" : "Nędza" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Oborniki" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Oborniki Śląskie" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Obrazów" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Obrowo" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Obryte" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Obrzycko" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Obsza" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Ochotnica Dolna" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Odolanów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Odrzywół" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Ogrodzieniec" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Ojrzeń" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Okonek" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Oksa" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Olecko" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Olesno" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Oleszyce" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Oleśnica" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Olkusz" }, "value" : { "count" : 178 } }
+{ "_id" : { "gmina" : "Olszanica" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Olszanka" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Olszewo-Borki" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Olsztyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Olsztynek" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Olszyna" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Olszówka" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Opalenica" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Opatowiec" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Opatów" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Opatówek" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Opinogóra Górna" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Opoczno" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Opole Lubelskie" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Oporów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Orchowo" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Orla" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Orneta" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Ornontowice" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Orońsko" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Orzesze" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Orzysz" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Orły" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Osie" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Osieck" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Osieczna" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Osiecznica" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Osiek" }, "value" : { "count" : 91 } }
+{ "_id" : { "gmina" : "Osiek Jasielski" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Osiek Mały" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Osielsko" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Osina" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Osięciny" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Osjaków" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Ostaszewo" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Ostroróg" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Ostrowice" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Ostrowiec Świętokrzyski" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Ostrowite" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Ostrzeszów" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Ostróda" }, "value" : { "count" : 88 } }
+{ "_id" : { "gmina" : "Ostrów" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Ostrów Lubelski" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Ostrów Mazowiecka" }, "value" : { "count" : 348 } }
+{ "_id" : { "gmina" : "Ostrów Wielkopolski" }, "value" : { "count" : 573 } }
+{ "_id" : { "gmina" : "Ostrówek" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Otmuchów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Otwock" }, "value" : { "count" : 372 } }
+{ "_id" : { "gmina" : "Otyń" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Ozimek" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Ozorków" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Oława" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Ośno Lubuskie" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Oświęcim" }, "value" : { "count" : 253 } }
+{ "_id" : { "gmina" : "Ożarowice" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Ożarów" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Ożarów Mazowiecki" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Pabianice" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Pacanów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Pacyna" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Paczków" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Padew Narodowa" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Pajęczno" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Pakosław" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Pakosławice" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Pakość" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Panki" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Papowo Biskupie" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Paprotnia" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Paradyż" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Parchowo" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Parczew" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Parysów" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Parzęczew" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Pasym" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Paszowice" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Pasłęk" }, "value" : { "count" : 75 } }
+{ "_id" : { "gmina" : "Pawonków" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Pawłosiów" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Pawłowice" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Pawłowiczki" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Pawłów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Pałecznica" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Pcim" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Pelplin" }, "value" : { "count" : 78 } }
+{ "_id" : { "gmina" : "Perlejewo" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Perzów" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Pełczyce" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Piaseczno" }, "value" : { "count" : 166 } }
+{ "_id" : { "gmina" : "Piaski" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Piastów" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Piechowice" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Piecki" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Piekoszów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Pielgrzymka" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Pieniężno" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Pierzchnica" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Pieszyce" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Pietrowice Wielkie" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Pieńsk" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Pilawa" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Pilchowice" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Pilica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Pilzno" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Pionki" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Piotrków Kujawski" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Pisz" }, "value" : { "count" : 73 } }
+{ "_id" : { "gmina" : "Piszczac" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Piwniczna-Zdrój" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Piątek" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Piątnica" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Piła" }, "value" : { "count" : 331 } }
+{ "_id" : { "gmina" : "Piława Górna" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Pińczów" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Platerów" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Platerówka" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Pleszew" }, "value" : { "count" : 90 } }
+{ "_id" : { "gmina" : "Pleśna" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Pniewy" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Pobiedziska" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Poczesna" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Poddębice" }, "value" : { "count" : 86 } }
+{ "_id" : { "gmina" : "Podedwórze" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Podegrodzie" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Podgórzyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Podkowa Leśna" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Pogorzela" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Pokrzywnica" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Pokój" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Polanica-Zdrój" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Polanka Wielka" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Polanów" }, "value" : { "count" : 83 } }
+{ "_id" : { "gmina" : "Police" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Policzna" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Polkowice" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Polska Cerekiew" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Pomiechówek" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Poniatowa" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Poniec" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Popielów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Popów" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Poraj" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Poronin" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Porąbka" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Poręba" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Postomino" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Potok Górny" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Potok Wielki" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Potworów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Potęgowo" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Powidz" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Pozezdrze" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Połajewo" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Połaniec" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Połczyn-Zdrój" }, "value" : { "count" : 84 } }
+{ "_id" : { "gmina" : "Poświętne" }, "value" : { "count" : 92 } }
+{ "_id" : { "gmina" : "Prabuty" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Praszka" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Prażmów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Prochowice" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Promna" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Prostki" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Proszowice" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Pruchnik" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Prudnik" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Prusice" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Pruszcz" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Pruszcz Gdański" }, "value" : { "count" : 248 } }
+{ "_id" : { "gmina" : "Pruszków" }, "value" : { "count" : 470 } }
+{ "_id" : { "gmina" : "Przasnysz" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Przechlewo" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Przeciszów" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Przecław" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Przedbórz" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Przedecz" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Przelewice" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Przemków" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Przemyśl" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Przemęt" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Przerośl" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Przesmyki" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Przeworno" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Przeworsk" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Przewóz" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Przodkowo" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Przybiernów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Przygodzice" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Przykona" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Przyrów" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Przystajń" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Przysucha" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Przytoczna" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Przytuły" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Przytyk" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Przywidz" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Przyłęk" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Prószków" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Psary" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Pszczew" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Pszczyna" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Pszczółki" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Pszów" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Puchaczów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Puck" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Purda" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Puszcza Mariańska" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Puszczykowo" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Puławy" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Pułtusk" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Puńsk" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Pyrzyce" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Pyskowice" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Pysznica" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Pyzdry" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Pątnów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Pęczniew" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Pęcław" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Pępowo" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Płaska" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Płoniawy-Bramura" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Płoskinia" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Płoty" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Płońsk" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Płośnica" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Płużnica" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Raba Wyżna" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Rabka-Zdrój" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Rachanie" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Racibórz" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Raciechowice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Raciąż" }, "value" : { "count" : 71 } }
+{ "_id" : { "gmina" : "Raciążek" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Raczki" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Racławice" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Radecznica" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Radgoszcz" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Radków" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Radlin" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Radomin" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Radomsko" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Radomyśl Wielki" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Radomyśl nad Sanem" }, "value" : { "count" : 85 } }
+{ "_id" : { "gmina" : "Radoszyce" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Radowo Małe" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Radwanice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Radymno" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Radzanowo" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Radzanów" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Radziechowy-Wieprz" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Radziejowice" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Radziejów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Radziemice" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Radzionków" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Radziłów" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Radzymin" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Radzyń Chełmiński" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Radzyń Podlaski" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Radłów" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Rajcza" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Rajgród" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Rakoniewice" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Rakszawa" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Raków" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Raniżów" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Raszków" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Raszyn" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Rawa Mazowiecka" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Rawicz" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Recz" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Reda" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Regimin" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Regnów" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Rejowiec" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Rejowiec Fabryczny" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Repki" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Resko" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Reszel" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Rewal" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Reńska Wieś" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Rogowo" }, "value" : { "count" : 71 } }
+{ "_id" : { "gmina" : "Rogoźno" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Rogów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Rogóźno" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Rojewo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Rokiciny" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Rokietnica" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Rokitno" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Ropa" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Ropczyce" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Rossosz" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Rozdrażew" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Rozogi" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Rozprza" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Rościszewo" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Roźwienica" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Ruciane-Nida" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Ruda Maleniecka" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Ruda-Huta" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Rudka" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Rudna" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Rudnik" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Rudnik nad Sanem" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Rudniki" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Rudziniec" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Ruja" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Rumia" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Rusiec" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Rusinów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Rutka-Tartak" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Rutki" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Rybczewice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Rybno" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Rychliki" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Rychtal" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Rychwał" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Ryczywół" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Rydułtowy" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Rydzyna" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Ryglice" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Ryjewo" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Ryki" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Rymanów" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Rymań" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Ryn" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Rypin" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Rytro" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Rytwiany" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Rzeczenica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Rzeczniów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Rzeczyca" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Rzekuń" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Rzepiennik Strzyżewski" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Rzepin" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Rzewnie" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Rzezawa" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Rzgów" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Rząśnia" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Rząśnik" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Różan" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Rąbino" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Ręczno" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Rędziny" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Sabnie" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Sadki" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sadkowice" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Sadlinki" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Sadowie" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Sadowne" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Samborzec" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Sandomierz" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Sanniki" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Sanok" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Santok" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Sarnaki" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Sawin" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Secemin" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Sejny" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Serniki" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Serock" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Serokomla" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Sianów" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Sicienko" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Sidra" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Sieciechów" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Siedlce" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Siedlec" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Siedlisko" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Siedliszcze" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Siekierczyn" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Siemiatycze" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Siemień" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Siemiątkowo" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Siemkowice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Siemyśl" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Sieniawa" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Siennica" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Siennica Różana" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Sienno" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Siepraw" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Sieradz" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Sierakowice" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Sieraków" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Sieroszewice" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Sierpc" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Siewierz" }, "value" : { "count" : 139 } }
+{ "_id" : { "gmina" : "Sitkówka-Nowiny" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Sitno" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Skalbmierz" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Skarbimierz" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Skarszewy" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Skaryszew" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Skarżysko Kościelne" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Skarżysko-Kamienna" }, "value" : { "count" : 154 } }
+{ "_id" : { "gmina" : "Skawina" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Skała" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Skierbieszów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Skierniewice" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Skoczów" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Skoki" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Skomlin" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Skoroszyce" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Skołyszyn" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Skrwilno" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Skrzyszów" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Skulsk" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Skwierzyna" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Skórcz" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Skórzec" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Skąpe" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Skępe" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Smołdzino" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Smyków" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Smętowo Graniczne" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Sobienie-Jeziory" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Sobków" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Sobolew" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Sobótka" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Sochaczew" }, "value" : { "count" : 393 } }
+{ "_id" : { "gmina" : "Sochocin" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Sokolniki" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sokoły" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Sokołów Małopolski" }, "value" : { "count" : 75 } }
+{ "_id" : { "gmina" : "Sokołów Podlaski" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Sokółka" }, "value" : { "count" : 220 } }
+{ "_id" : { "gmina" : "Solec Kujawski" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Solec nad Wisłą" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Solec-Zdrój" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Solina" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Somianka" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Somonino" }, "value" : { "count" : 66 } }
+{ "_id" : { "gmina" : "Sompolno" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Sorkwity" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Sosnowica" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Sosnówka" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Sońsk" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Sośnicowice" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Sośnie" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sośno" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Spiczyn" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Spytkowice" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Srokowo" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Stalowa Wola" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Stanin" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Stanisławów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Stara Biała" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Stara Błotnica" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Stara Dąbrowa" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Stara Kamienica" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Stara Kiszewa" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Stara Kornica" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Starachowice" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Starcza" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Stare Babice" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Stare Bogaczowice" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Stare Czarnowo" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Stare Juchy" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Stare Kurowo" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Stare Miasto" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Stare Pole" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Stargard Szczeciński" }, "value" : { "count" : 311 } }
+{ "_id" : { "gmina" : "Starogard Gdański" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Staroźreby" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Stary Brus" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Stary Dzierzgoń" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Stary Dzików" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Stary Lubotyń" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Stary Sącz" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Stary Targ" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Stary Zamość" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Staszów" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Stawiguda" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Stawiski" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Stawiszyn" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Stegna" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Stepnica" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sterdyń" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Stoczek" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Stoczek Łukowski" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Stolno" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Stopnica" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Stoszowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Strachówka" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Strawczyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Stromiec" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Stronie Śląskie" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Strumień" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Stryków" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Stryszawa" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Stryszów" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Strzałkowo" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Strzegom" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Strzegowo" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Strzelce" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Strzelce Krajeńskie" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Strzelce Opolskie" }, "value" : { "count" : 156 } }
+{ "_id" : { "gmina" : "Strzelce Wielkie" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Strzeleczki" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Strzelin" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Strzelno" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Strzyżewice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Strzyżów" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Stubno" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Studzienice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Stupsk" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Stąporków" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Stęszew" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Stężyca" }, "value" : { "count" : 105 } }
+{ "_id" : { "gmina" : "Subkowy" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Sucha Beskidzka" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Suchań" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Suchedniów" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Suchowola" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Suchożebry" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Suchy Dąb" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Suchy Las" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Sulechów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Sulejów" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Sulejówek" }, "value" : { "count" : 228 } }
+{ "_id" : { "gmina" : "Sulików" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sulmierzyce" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Sulęcin" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Sulęczyno" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Supraśl" }, "value" : { "count" : 158 } }
+{ "_id" : { "gmina" : "Suraż" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Susiec" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Susz" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Suszec" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Suwałki" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Sułkowice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Sułoszowa" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Sułów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Swarzędz" }, "value" : { "count" : 336 } }
+{ "_id" : { "gmina" : "Syców" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Sypniewo" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Szadek" }, "value" : { "count" : 77 } }
+{ "_id" : { "gmina" : "Szaflary" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Szamocin" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Szamotuły" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Szastarka" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Szczaniec" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Szczawin Kościelny" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Szczawnica" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Szczawno-Zdrój" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Szczebrzeszyn" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Szczecinek" }, "value" : { "count" : 85 } }
+{ "_id" : { "gmina" : "Szczekociny" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Szczerców" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Szczucin" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Szczuczyn" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Szczurowa" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Szczutowo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Szczyrk" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Szczytna" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Szczytniki" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Szczytno" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Szelków" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Szemud" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Szepietowo" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Szerzyny" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Szklarska Poręba" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Szlichtyngowa" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Szprotawa" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Szreńsk" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Sztabin" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Sztum" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Sztutowo" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Szubin" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Szudziałowo" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Szulborze Wielkie" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Szumowo" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Szydłowiec" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Szydłowo" }, "value" : { "count" : 71 } }
+{ "_id" : { "gmina" : "Szydłów" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Szypliszki" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Sędziejowice" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Sędziszów" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Sędziszów Małopolski" }, "value" : { "count" : 104 } }
+{ "_id" : { "gmina" : "Sękowa" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Sępopol" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Sępólno Krajeńskie" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Słaboszów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Sława" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Sławatycze" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Sławków" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Sławno" }, "value" : { "count" : 76 } }
+{ "_id" : { "gmina" : "Sławoborze" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Słomniki" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Słopnice" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Słońsk" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Słubice" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Słupca" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Słupia" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Słupia (Jędrzejowska)" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Słupia (Konecka)" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Słupno" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Słupsk" }, "value" : { "count" : 128 } }
+{ "_id" : { "gmina" : "Tarczyn" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Tarnawatka" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Tarnogród" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Tarnowiec" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Tarnowo Podgórne" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Tarnowskie Góry" }, "value" : { "count" : 372 } }
+{ "_id" : { "gmina" : "Tarnów" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Tarnów Opolski" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Tarnówka" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Tarłów" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Tczew" }, "value" : { "count" : 58 } }
+{ "_id" : { "gmina" : "Tczów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Telatyn" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Teresin" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Terespol" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Tereszpol" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Tokarnia" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Tolkmicko" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Tomaszów Lubelski" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Tomaszów Mazowiecki" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Tomice" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Topólka" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Torzym" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Toszek" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Trawniki" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Trojanów" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Troszyn" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Tryńcza" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Trzciana" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Trzcianka" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Trzcianne" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Trzciel" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Trzcinica" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Trzcińsko-Zdrój" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Trzebiatów" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Trzebiechów" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Trzebiel" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Trzebielino" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Trzebieszów" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Trzebinia" }, "value" : { "count" : 237 } }
+{ "_id" : { "gmina" : "Trzebnica" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Trzebownisko" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Trzemeszno" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Trzeszczany" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Trzyciąż" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Trzydnik Duży" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Trąbki Wielkie" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Tuchola" }, "value" : { "count" : 198 } }
+{ "_id" : { "gmina" : "Tuchomie" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Tuchów" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Tuczna" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Tuczno" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Tuczępy" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Tuliszków" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Tuplice" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Turawa" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Turek" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Turobin" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Turośl" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Turośń Kościelna" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Tuszyn" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Tuszów Narodowy" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Tułowice" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Twardogóra" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Tworóg" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Tychowo" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Tyczyn" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Tykocin" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Tymbark" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Tyrawa Wołoska" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Tyszowce" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Tłuchowo" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Tłuszcz" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Uchanie" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Udanin" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Ujazd" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Ujsoły" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Ujście" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Ulan-Majorat" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Ulanów" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Ulhówek" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Uniejów" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Unisław" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Urszulin" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Urzędów" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Ustka" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Ustronie Morskie" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Ustroń" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Ustrzyki Dolne" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Ułęż" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Uście Gorlickie" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Uścimów" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Wadowice" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Wadowice Górne" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Waganiec" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Walce" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Walim" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Wapno" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Warka" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Warlubie" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Warnice" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Warta" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Warta Bolesławiecka" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Wartkowice" }, "value" : { "count" : 62 } }
+{ "_id" : { "gmina" : "Wasilków" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Wałbrzych" }, "value" : { "count" : 327 } }
+{ "_id" : { "gmina" : "Wałcz" }, "value" : { "count" : 73 } }
+{ "_id" : { "gmina" : "Waśniów" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Wejherowo" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Werbkowice" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Wicko" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Widawa" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Widuchowa" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Wieczfnia Kościelna" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Wielbark" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Wieleń" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Wielgie" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Wielgomłyny" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Wielichowo" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Wieliczka" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Wieliczki" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Wieliszew" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Wielka Nieszawka" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Wielka Wieś" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Wielkie Oczy" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Wielopole Skrzyńskie" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Wielowieś" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Wieluń" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Wieniawa" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Wieprz" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Wieruszów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Wierzbica" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Wierzbinek" }, "value" : { "count" : 91 } }
+{ "_id" : { "gmina" : "Wierzbno" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Wierzchlas" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Wierzchosławice" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Wierzchowo" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wietrzychowice" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Wijewo" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Wilamowice" }, "value" : { "count" : 9 } }
+{ "_id" : { "gmina" : "Wilczyce" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Wilczyn" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Wilczęta" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Wilga" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Wilkowice" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Wilkołaz" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wilków" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Winnica" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Wiskitki" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Wisznia Mała" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Wisznice" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Wisła" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Witkowo" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Witnica" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Witonia" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Wizna" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Wiązowna" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Wiązownica" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Wiązów" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Więcbork" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Wińsko" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Wiślica" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Wiśniew" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Wiśniewo" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Wiśniowa" }, "value" : { "count" : 68 } }
+{ "_id" : { "gmina" : "Wiżajny" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Wleń" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Wodynie" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Wodzierady" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Wodzisław" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Wodzisław Śląski" }, "value" : { "count" : 243 } }
+{ "_id" : { "gmina" : "Wohyń" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Wojaszówka" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Wojciechowice" }, "value" : { "count" : 66 } }
+{ "_id" : { "gmina" : "Wojciechów" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Wojcieszków" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Wojcieszów" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Wojkowice" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Wojnicz" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Wojsławice" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Wola Krzysztoporska" }, "value" : { "count" : 54 } }
+{ "_id" : { "gmina" : "Wola Mysłowska" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Wola Uhruska" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Wolanów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Wolbrom" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Wolbórz" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Wolin" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Wolsztyn" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Wołczyn" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Wołomin" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wołów" }, "value" : { "count" : 190 } }
+{ "_id" : { "gmina" : "Woźniki" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Wronki" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Września" }, "value" : { "count" : 71 } }
+{ "_id" : { "gmina" : "Wróblew" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Wręczyca Wielka" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Wschowa" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Wydminy" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Wymiarki" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Wyry" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Wyryki" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Wyrzysk" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Wysoka" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wysokie" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Wysokie Mazowieckie" }, "value" : { "count" : 60 } }
+{ "_id" : { "gmina" : "Wyszki" }, "value" : { "count" : 63 } }
+{ "_id" : { "gmina" : "Wyszków" }, "value" : { "count" : 228 } }
+{ "_id" : { "gmina" : "Wyszogród" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wyśmierzyce" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Wólka" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Wąbrzeźno" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Wąchock" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Wądroże Wielkie" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Wągrowiec" }, "value" : { "count" : 77 } }
+{ "_id" : { "gmina" : "Wąpielsk" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Wąsewo" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Wąsosz" }, "value" : { "count" : 72 } }
+{ "_id" : { "gmina" : "Wąwolnica" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Węgierska Górka" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Węgliniec" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Węgorzewo" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Węgorzyno" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Węgrów" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Władysławowo" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Władysławów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Włocławek" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Włodawa" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Włodowice" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Włoszakowice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Włoszczowa" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Zabierzów" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Zabrodzie" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Zabór" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Zabłudów" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Zadzim" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Zagnańsk" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Zagrodno" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Zagórz" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Zagórów" }, "value" : { "count" : 51 } }
+{ "_id" : { "gmina" : "Zakliczyn" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Zaklików" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Zakopane" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Zakroczym" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Zakrzew" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Zakrzewo" }, "value" : { "count" : 43 } }
+{ "_id" : { "gmina" : "Zakrzówek" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Zalesie" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Zaleszany" }, "value" : { "count" : 87 } }
+{ "_id" : { "gmina" : "Zalewo" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Zambrów" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Zamość" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Zaniemyśl" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Zapolice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Zarszyn" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Zarzecze" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Zaręby Kościelne" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Zator" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Zatory" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Zawady" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Zawadzkie" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Zawichost" }, "value" : { "count" : 45 } }
+{ "_id" : { "gmina" : "Zawidz" }, "value" : { "count" : 57 } }
+{ "_id" : { "gmina" : "Zawidów" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Zawiercie" }, "value" : { "count" : 286 } }
+{ "_id" : { "gmina" : "Zawoja" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Zawonia" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Załuski" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Zbiczno" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Zblewo" }, "value" : { "count" : 87 } }
+{ "_id" : { "gmina" : "Zbrosławice" }, "value" : { "count" : 114 } }
+{ "_id" : { "gmina" : "Zbuczyn" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Zbójna" }, "value" : { "count" : 41 } }
+{ "_id" : { "gmina" : "Zbójno" }, "value" : { "count" : 26 } }
+{ "_id" : { "gmina" : "Zbąszynek" }, "value" : { "count" : 16 } }
+{ "_id" : { "gmina" : "Zbąszyń" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Zduny" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Zduńska Wola" }, "value" : { "count" : 50 } }
+{ "_id" : { "gmina" : "Zdzieszowice" }, "value" : { "count" : 65 } }
+{ "_id" : { "gmina" : "Zebrzydowice" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Zelów" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Zembrzyce" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Zgierz" }, "value" : { "count" : 80 } }
+{ "_id" : { "gmina" : "Zgorzelec" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Zielona Góra" }, "value" : { "count" : 27 } }
+{ "_id" : { "gmina" : "Zielonka" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Zielonki" }, "value" : { "count" : 77 } }
+{ "_id" : { "gmina" : "Ziębice" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Zwierzyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Zwierzyniec" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Zwoleń" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Ząbki" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Ząbkowice Śląskie" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Zębowice" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Zławieś Wielka" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Złocieniec" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Złoczew" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Złota" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Złotniki Kujawskie" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Złotoryja" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Złoty Stok" }, "value" : { "count" : 8 } }
+{ "_id" : { "gmina" : "Złotów" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Ćmielów" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Łabiszyn" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Łabowa" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Łabunie" }, "value" : { "count" : 15 } }
+{ "_id" : { "gmina" : "Ładzice" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Łagiewniki" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Łagów" }, "value" : { "count" : 67 } }
+{ "_id" : { "gmina" : "Łambinowice" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Łanięta" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Łapanów" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Łapsze Niżne" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Łapy" }, "value" : { "count" : 172 } }
+{ "_id" : { "gmina" : "Łasin" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Łask" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Łaskarzew" }, "value" : { "count" : 32 } }
+{ "_id" : { "gmina" : "Łaszczów" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Łaziska" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Łaziska Górne" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Łazy" }, "value" : { "count" : 82 } }
+{ "_id" : { "gmina" : "Łańcut" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Łeba" }, "value" : { "count" : 3 } }
+{ "_id" : { "gmina" : "Łobez" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Łobżenica" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Łochów" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Łodygowice" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Łomazy" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Łomianki" }, "value" : { "count" : 14 } }
+{ "_id" : { "gmina" : "Łomża" }, "value" : { "count" : 52 } }
+{ "_id" : { "gmina" : "Łoniów" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Łopiennik Górny" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Łopuszno" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Łosice" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Łososina Dolna" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Łowicz" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Łubianka" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Łubniany" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Łubnice" }, "value" : { "count" : 44 } }
+{ "_id" : { "gmina" : "Łubowo" }, "value" : { "count" : 31 } }
+{ "_id" : { "gmina" : "Łukowa" }, "value" : { "count" : 12 } }
+{ "_id" : { "gmina" : "Łukowica" }, "value" : { "count" : 11 } }
+{ "_id" : { "gmina" : "Łukta" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Łuków" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Łużna" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Łyse" }, "value" : { "count" : 34 } }
+{ "_id" : { "gmina" : "Łysomice" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Łyszkowice" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Łąck" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Łącko" }, "value" : { "count" : 19 } }
+{ "_id" : { "gmina" : "Łączna" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Łęczna" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Łęczyca" }, "value" : { "count" : 56 } }
+{ "_id" : { "gmina" : "Łęczyce" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Łęka Opatowska" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Łękawica" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Łęki Szlacheckie" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Łęknica" }, "value" : { "count" : 2 } }
+{ "_id" : { "gmina" : "Ścinawa" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Ślemień" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Ślesin" }, "value" : { "count" : 70 } }
+{ "_id" : { "gmina" : "Śliwice" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Śmigiel" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Śniadowo" }, "value" : { "count" : 61 } }
+{ "_id" : { "gmina" : "Śrem" }, "value" : { "count" : 48 } }
+{ "_id" : { "gmina" : "Środa Wielkopolska" }, "value" : { "count" : 239 } }
+{ "_id" : { "gmina" : "Środa Śląska" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Świdnica" }, "value" : { "count" : 354 } }
+{ "_id" : { "gmina" : "Świdnik" }, "value" : { "count" : 5 } }
+{ "_id" : { "gmina" : "Świdwin" }, "value" : { "count" : 53 } }
+{ "_id" : { "gmina" : "Świebodzice" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Świebodzin" }, "value" : { "count" : 35 } }
+{ "_id" : { "gmina" : "Świecie" }, "value" : { "count" : 121 } }
+{ "_id" : { "gmina" : "Świecie nad Osą" }, "value" : { "count" : 18 } }
+{ "_id" : { "gmina" : "Świedziebnia" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Świekatowo" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Świeradów-Zdrój" }, "value" : { "count" : 120 } }
+{ "_id" : { "gmina" : "Świercze" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Świerczów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Świerklaniec" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Świerklany" }, "value" : { "count" : 4 } }
+{ "_id" : { "gmina" : "Świerzawa" }, "value" : { "count" : 20 } }
+{ "_id" : { "gmina" : "Świerzno" }, "value" : { "count" : 25 } }
+{ "_id" : { "gmina" : "Świeszyno" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Świlcza" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Świnice Warckie" }, "value" : { "count" : 36 } }
+{ "_id" : { "gmina" : "Świnna" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Świątki" }, "value" : { "count" : 23 } }
+{ "_id" : { "gmina" : "Świątniki Górne" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Święciechowa" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Święta Katarzyna" }, "value" : { "count" : 29 } }
+{ "_id" : { "gmina" : "Świętajno" }, "value" : { "count" : 65 } }
+{ "_id" : { "gmina" : "Żabia Wola" }, "value" : { "count" : 42 } }
+{ "_id" : { "gmina" : "Żabno" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Żagań" }, "value" : { "count" : 33 } }
+{ "_id" : { "gmina" : "Żarki" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Żarnowiec" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Żarnów" }, "value" : { "count" : 47 } }
+{ "_id" : { "gmina" : "Żary" }, "value" : { "count" : 39 } }
+{ "_id" : { "gmina" : "Żarów" }, "value" : { "count" : 22 } }
+{ "_id" : { "gmina" : "Żegocina" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Żelazków" }, "value" : { "count" : 38 } }
+{ "_id" : { "gmina" : "Żelechlinek" }, "value" : { "count" : 40 } }
+{ "_id" : { "gmina" : "Żelechów" }, "value" : { "count" : 21 } }
+{ "_id" : { "gmina" : "Żerków" }, "value" : { "count" : 37 } }
+{ "_id" : { "gmina" : "Żmigród" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Żmudź" }, "value" : { "count" : 28 } }
+{ "_id" : { "gmina" : "Żnin" }, "value" : { "count" : 55 } }
+{ "_id" : { "gmina" : "Żołynia" }, "value" : { "count" : 10 } }
+{ "_id" : { "gmina" : "Żukowice" }, "value" : { "count" : 24 } }
+{ "_id" : { "gmina" : "Żukowo" }, "value" : { "count" : 59 } }
+{ "_id" : { "gmina" : "Żurawica" }, "value" : { "count" : 13 } }
+{ "_id" : { "gmina" : "Żuromin" }, "value" : { "count" : 30 } }
+{ "_id" : { "gmina" : "Żychlin" }, "value" : { "count" : 46 } }
+{ "_id" : { "gmina" : "Żyraków" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Żyrardów" }, "value" : { "count" : 7 } }
+{ "_id" : { "gmina" : "Żyrzyn" }, "value" : { "count" : 17 } }
+{ "_id" : { "gmina" : "Żytno" }, "value" : { "count" : 49 } }
+{ "_id" : { "gmina" : "Żywiec" }, "value" : { "count" : 6 } }
+{ "_id" : { "gmina" : "Żórawina" }, "value" : { "count" : 69 } }
+{ "_id" : { "gmina" : "Żółkiewka" }, "value" : { "count" : 36 } }
+]
+}
