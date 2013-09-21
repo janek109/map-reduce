@@ -48,7 +48,7 @@
 1. Bartłomiej Bedra, [Lotniska](/docs/bbedra.md).
 1. Adam Szuliński, [Religie](/docs/aszulinski.md).
 1. Anna Łońska, [Lotniska](/docs/alonska.md).
-1. Jan Szewczak, [Lotniska](/docs/janek109.md).
+1. Jan Szewczak, [Gminy](/docs/janek109.md).
 
 
 ## GitHub Archive

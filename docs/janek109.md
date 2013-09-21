@@ -77,3 +77,7 @@ db.kody_pocztowe.mapReduce(map,reduce,{ out : 'gminy'})
 ```
 
 ### [Plik json z wynikiem](/data/gminy.json)
+
+### Wykres ilości kodów pocztowych w poszeczególnych gminach
+
+![Wykres ilości kodów pocztowych w poszeczególnych gminach](../images/janek109_ilosc_kodow.png)
