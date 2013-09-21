@@ -81,3 +81,4 @@ db.kody_pocztowe.mapReduce(map,reduce,{ out : 'gminy'})
 ### Wykres ilości kodów pocztowych w poszeczególnych gminach
 
 ![Wykres ilości kodów pocztowych w poszeczególnych gminach](../images/janek109_ilosc_kodow.png)
+
